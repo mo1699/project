@@ -1,1 +1,1 @@
-print("jhdjshd")
+print("go")
